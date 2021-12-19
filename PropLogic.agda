@@ -1,7 +1,7 @@
 -- This file comes from the agda class taught by Peter Selinger at
 -- Dalhousie University. It contains a bonus question that
 -- propostional logic is complete. We will show this in
--- Completeness.agda.
+-- Kalmar.agda.
 
 -- The course link:
 -- https://www.mathstat.dal.ca/~selinger/agda-lectures/
